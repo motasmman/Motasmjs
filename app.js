@@ -64,3 +64,17 @@ else {
 }
 
 
+
+
+var name = prompt("Vad heter du?");
+if (name === "motasm") {
+    alert("Välkomna");
+}
+
+else {
+    alert("hejdå");
+    open("");
+}
+
+
+
